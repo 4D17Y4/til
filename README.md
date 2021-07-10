@@ -2,7 +2,13 @@
 
 Share Learnings ;)
 
-- [Current timestamp js](javascript/current-timestamp.md)
+## Javascript
+
+- [Current timestamp](javascript/current-timestamp.md)
+
+## Kotlin
+
+- [Const vs Val](kotlin/const-vs-val.md)
 
 ## Inspired by
 
