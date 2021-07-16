@@ -10,6 +10,10 @@ Share Learnings ;)
 
 - [Const vs Val](kotlin/const-vs-val.md)
 
+## Algorithm
+
+- [Aho Corasick](algorithm/aho-corasick.md)
+
 ## Inspired by
 
 - [Til by jbranchaud](https://github.com/jbranchaud/til)
